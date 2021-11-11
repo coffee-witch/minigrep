@@ -1,0 +1,1 @@
+/mnt/c/Users/Kate/CLionProjects/rust/practice/minigrep/target/debug/minigrep: /mnt/c/Users/Kate/CLionProjects/rust/practice/minigrep/src/lib.rs /mnt/c/Users/Kate/CLionProjects/rust/practice/minigrep/src/main.rs
